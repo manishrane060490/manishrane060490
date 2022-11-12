@@ -1,10 +1,10 @@
-Hi there, I'm Manish 👦,
+Hi there, I'm Manish 👦,  
 A React/Web developer🎯 from India.
 
-👨‍💻 React Developer
-📚 What do I believe? Jack of all, Master of some.
-🌱 I’m currently learning NodeJs, MERN stack, React Native
-📫 How to reach me: Instagram - @manish_rane2217
+👨‍💻 React Developer  
+📚 What do I believe? Jack of all, Master of some.  
+🌱 I’m currently learning NodeJs, MERN stack, React Native. 
+📫 How to reach me: Instagram - @manish_rane2217. 
 
 
 
